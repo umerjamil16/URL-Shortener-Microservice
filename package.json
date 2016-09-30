@@ -7,7 +7,11 @@
   "author": "Mostafa Eweda <mo.eweda@gmail.com>",
   "dependencies": {
     "async": "~0.2.8",
-    "express": "~3.2.4",
-    "socket.io": "~0.9.14"
+    "express": "^4.14.0",
+    "hogan-express": "^0.5.2",
+    "mongodb": "^2.2.10",
+    "shortid": "^2.2.6",
+    "socket.io": "~0.9.14",
+    "valid-url": "^1.0.9"
   }
 }
