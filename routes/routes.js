@@ -8,7 +8,7 @@ module.exports = function(express, app) {
     var validUrl = require('valid-url');
     var mLab = "mongodb://user:password@ds047166.mlab.com:47166/url-mircoservice";
 
-    var masterURL = "https://url-shortener-microservice-tonystark66.c9users.io/";
+    var masterURL = "https://url-shortener-16.herokuapp.com/";
 
     // var db;
     // var collection = db.collection('links');
